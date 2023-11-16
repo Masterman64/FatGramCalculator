@@ -1,5 +1,5 @@
 # FatGramCalculator
-Originally created for my C++ Programming class in 2019, and reformatted for running in Visual Studio Code. 
+Originally created for my C++ Programming class at Lone Star College - Montgomery in 2019, and reformatted for running in Visual Studio Code. 
 
 # Original Description
 Write a program that asks for the number of calories and fat grams in a food.
